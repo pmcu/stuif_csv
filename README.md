@@ -1,5 +1,5 @@
 # Stuif csv
-![Alt text](pic/geafta_dubh.jpg "geafta")
+![Alt text](pic/nua_gd.jpg "geafta")
 
 ## Na Comhaid csv
 Baineann na comhaid csv leis na díochlaonta sa Ghaeilge. Is í an fhoirm den
