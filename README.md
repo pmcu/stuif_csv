@@ -37,3 +37,4 @@ ghinideach uatha a shocraíonn cé acu díochlaonadh a bhfuil an t-ainmfhocal an
 Úsáidtear liostaí de fhocail sa díochlaonadh i gcomhad csv sa
 dóigh gur féidir buneolas gramadaí a aimsiú go gasta.
 
+[cnámh](https://pmcu.github.io/seinn.html)
