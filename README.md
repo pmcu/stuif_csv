@@ -4,6 +4,7 @@
 ## Na Comhaid csv
 Baineann na comhaid csv leis na díochlaonta sa Ghaeilge. Is í an fhoirm den
 ghinideach uatha a shocraíonn cé acu díochlaonadh a bhfuil an t-ainmfhocal ann.
+nóta: ciallaíonn bunfhoirm an fhoirm san ainmneach uatha
 - 1ú díochlaonadh - gidideach uatha: consan caol
 - 2ú díochlaonadh - ginideacha uatha: cuirtear 'e' leis an bhunfhoirm agus déantar caolú más gá é
 - 3ú díochlaonadh - ginideach uatha: cuirtear 'a' leis an bhunfoirm agus déantar leathnú más gá é
