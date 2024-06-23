@@ -2,7 +2,7 @@
 ![Alt text](pic/geafta_dubh.jpg "geafta")
 
 ## Na Comhaid csv
-Baineann na comhaid csv leis na díochlaonta sa Ghaeilge. Is é an foirm den
+Baineann na comhaid csv leis na díochlaonta sa Ghaeilge. Is í an fhoirm den
 ghinideach uatha a shocraíonn cé acu díochlaonadh a bhfuil sé ann.
 - 1ú díochlaonadh - gidideach uatha: consan caol
 - 2ú díochlaonadh - ginideacha uatha: cuirtear 'e' leis an bhunfhoirm agus déantar caolú más gá é
